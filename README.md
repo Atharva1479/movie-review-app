@@ -1,6 +1,3 @@
-Certainly! Here's a modified README file specifically tailored for a full-stack project built with Spring Boot, React.js, and MongoDB:
-
-```markdown
 # Movie Explorer & Review App 🎬✨
 
 Welcome to the Movie Explorer & Review App - your ultimate destination for a captivating movie-watching experience! 🚀
@@ -38,7 +35,7 @@ To explore the Movie Explorer & Review App locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-explorer-app.git
+   git clone https://github.com/Atharva1479/movie-review-app.git
    ```
 
 2. Navigate to the project directory:
