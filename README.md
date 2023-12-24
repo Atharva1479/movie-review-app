@@ -1,10 +1,6 @@
 # Movie Explorer & Review App 🎬✨
 
-Welcome to the Movie Explorer & Review App - your ultimate destination for a captivating movie-watching experience! 🚀
-
-## Project Overview
-
-The Movie Explorer & Review App is a full-stack web application built with Spring Boot, React.js, and MongoDB. Immerse yourself in a diverse collection of handpicked films, watch trailers, and engage with a community of movie enthusiasts through personalized reviews.
+The Movie Explorer & Review App is a dynamic web platform blending Spring Boot, React.js, and MongoDB. Dive into a handpicked movie collection, watch trailers, and share reviews within a vibrant community. Experience seamless interfaces, robust backend, and responsive design. Your gateway to cinematic joy awaits!
 
 ## Key Features
 
@@ -47,7 +43,7 @@ To explore the Movie Explorer & Review App locally, follow these steps:
 
 3. Navigate to the backend directory:
    ```bash
-   cd backend
+   cd movies
    ```
 
 4. Build and run the Spring Boot application:
@@ -62,7 +58,7 @@ To explore the Movie Explorer & Review App locally, follow these steps:
 
 5. Open a new terminal and navigate to the frontend directory:
    ```bash
-   cd frontend
+   cd movie-gold-v1
    ```
 
 6. Install dependencies:
